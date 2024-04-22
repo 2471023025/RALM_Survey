@@ -60,6 +60,7 @@ We hope this repository can help researchers and practitioners to get a better u
 ## Defination
 <img src="defination.png" width = "800" />
 <img src="defination2.png" width = "800" />
+
 ### Sequential Single Interaction
 - Corrective Retrieval Augmented Generation(Arxiv, 2024)[[paper]](https://arxiv.org/pdf/2401.15884.pdf)
 - SELF-RAG: LEARNING TO RETRIEVE, GENERATE, AND CRITIQUE THROUGH SELF-REFLECTION(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2310.11511.pdf)
