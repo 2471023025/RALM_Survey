@@ -30,21 +30,25 @@ This project is under development. You can hit the **STAR** and **WATCH** to fol
     - [AutoEncoder Language Model](#autoencoder-language-model)
     - [AutoRegressive Language Model](#autoregressive-language-model)
     - [Encoder-Decoder Language Model](#encoder-decoder-language-model)
-
-
-
-
-
-
-
-
+  - [RALM Enhancement](#ralm-enhancement)
+    - [Retriever Enhancement](#retriever-enhancement)
+    - [LM Enhancement](#lm-enhancement)
+    - [Overall Enhancement](#overall-enhancement)
+  - [Data Source](#data-source)
+    - [Structured Data](#structured-data)
+    - [Unstructured data](#unstructured-data)
   - [Applications](#applications)
-    - [RALM on NLG](#RALM-on-NLG)
-    - [RALM on NLU](#RALM-on-NLU)
+    - [RALM on NLG](#ralm-on-nlg)
+    - [RALM on NLU](#ralm-on-nlu)
+    - [{RALM on Both NLU and NLG](#{ralm-on-both-nlu-and-nlu)
+  - [Evaluation](#evaluation)
   
 ## Overview
 This SURVEY of ours summarizes multiple aspects of RALM, including: definition, retriever, LM, enhancement, data source, application, evaluation, and more.
 *We hope this repository can help researchers and practitioners to get a better understanding of RALM.
-<img src="figs/overview1.png" width = "800" />
+*<img src="overview1.png" width = "800" />
+
+## Related Surveys
+Retrieval-Augmented Generation for AI-Generated Content: A Survey(Arxiv, 2024)[[paper]](https://arxiv.org/pdf/2402.19473.pdf)
 
 
