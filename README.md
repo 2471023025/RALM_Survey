@@ -45,8 +45,10 @@ This project is under development. You can hit the **STAR** and **WATCH** to fol
   
 ## Overview
 This SURVEY of ours summarizes multiple aspects of RALM, including: definition, retriever, LM, enhancement, data source, application, evaluation, and more.
-*We hope this repository can help researchers and practitioners to get a better understanding of RALM.
-*<img src="overview1.png" width = "800" />
+
+We hope this repository can help researchers and practitioners to get a better understanding of RALM.
+
+<img src="overview1.png" width = "800" />
 
 ## Related Surveys
 Retrieval-Augmented Generation for AI-Generated Content: A Survey(Arxiv, 2024)[[paper]](https://arxiv.org/pdf/2402.19473.pdf)
