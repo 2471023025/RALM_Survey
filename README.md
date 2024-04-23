@@ -285,7 +285,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - RETRIEVAL-AUGMENTED GENERATION FOR CODE SUMMARIZATION VIA HYBRID GNN(Arxiv, 2021)[[paper]](https://arxiv.org/pdf/2006.05405.pdf)
 
 ## Evaluation
-<img src="evaluation" width = "800" />
+<img src="evaluation.png" width = "800" />
 
 - RAGAS: Automated Evaluation of Retrieval Augmented Generation(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2309.15217.pdf)
 - Benchmarking Large Language Models in Retrieval-Augmented Generation(AAAI, 2024)[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29728)
