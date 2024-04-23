@@ -219,7 +219,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - Check Your Facts and Try Again: Improving Large Language Models(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2302.12813.pdf)
 
 ## Data Source
-<img src="Data Source.png" width = "800" />
+<img src="Data source.png" width = "800" />
 
 ### Structured Data
 - Natural Questions: A Benchmark for Question Answering Research(mit, 2019)[[paper]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00276/43518)
