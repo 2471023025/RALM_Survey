@@ -36,7 +36,7 @@ This project is under development. You can hit the **STAR** and **WATCH** to fol
     - [Overall Enhancement](#overall-enhancement)
   - [Data Source](#data-source)
     - [Structured Data](#structured-data)
-    - [Unstructured data](#unstructured-data)
+    - [Unstructured Data](#unstructured-data)
   - [Applications](#applications)
     - [RALM on NLG](#ralm-on-nlg)
     - [RALM on NLU](#ralm-on-nlu)
@@ -133,8 +133,8 @@ We hope this repository can help researchers and practitioners to get a better u
 ### Internet Retrieval
 - Active Retrieval Augmented Generation(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2305.06983.pdf)
 - MAKING RETRIEVAL-AUGMENTED LANGUAGE MODELS ROBUST TO IRRELEVANT CONTEXT(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2310.01558.pdf)
--  Internet-augmented dialogue generation(Arxiv, 2021)[[paper]](https://arxiv.org/pdf/2107.07566.pdf)
--  Webgpt: Browser-assisted question-answering with human feedback(Arxiv, 2022)[[paper]](https://arxiv.org/pdf/2112.09332.pdf)
+- Internet-augmented dialogue generation(Arxiv, 2021)[[paper]](https://arxiv.org/pdf/2107.07566.pdf)
+- Webgpt: Browser-assisted question-answering with human feedback(Arxiv, 2022)[[paper]](https://arxiv.org/pdf/2112.09332.pdf)
 
 ### Hybrid Retrieval
 - SAIL: Search-Augmented Instruction Learning(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2305.15225.pdf)
@@ -172,5 +172,123 @@ We hope this repository can help researchers and practitioners to get a better u
 - Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer(jmlr, 2020)[[paper]](https://www.jmlr.org/papers/volume21/20-074/20-074.pdf)
 - BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension(Arxiv, 2019)[[paper]](https://arxiv.org/pdf/1910.13461.pdf)
 
+## RALM Enhancement
+<img src="enhancement.png" width = "800" />
 
+### Retriever Enhancement
+- Corrective Retrieval Augmented Generation(Arxiv, 2024)[[paper]](https://arxiv.org/pdf/2401.15884.pdf)
+- SELF-RAG: LEARNING TO RETRIEVE, GENERATE, AND CRITIQUE THROUGH SELF-REFLECTION(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2310.11511.pdf)
+- RA-DIT: RETRIEVAL-AUGMENTED DUAL INSTRUCTION TUNING(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2310.01352.pdf)
+- MAKING RETRIEVAL-AUGMENTED LANGUAGE MODELS ROBUST TO IRRELEVANT CONTEXT(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2310.01558.pdf)
+- RECOMP: IMPROVING RETRIEVAL-AUGMENTED LMS WITH COMPRESSION AND SELECTIVE AUGMENTATION(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2310.04408.pdf)
+- Learning to Filter Context for Retrieval-Augmented Generation(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2311.08377.pdf)
+- Active Retrieval Augmented Generation(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2305.06983.pdf)
+- In-Context Retrieval-Augmented Language Models(mit, 2023)[[paper]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00605/118118)
+- Improving Language Models via Plug-and-Play Retrieval Feedback(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2305.14002.pdf)
+- When Not to Trust Language Models: Investigating Effectiveness of Parametric and Non-Parametric Memories(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2212.10511.pdf)
+- Rethinking with Retrieval: Faithful Large Language Model Inference(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2301.00303.pdf)
+- DEMONSTRATE–SEARCH–PREDICT:Composing retrieval and language models for knowledge-intensive NLP(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2212.14024.pdf)
+
+### LM Enhancement
+- FiD-Light: Efficient and Effective Retrieval-Augmented Text Generation(acm, 2023)[[paper]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591687)
+- Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering(Arxiv, 2021)[[paper]](https://arxiv.org/pdf/2007.01282.pdf)
+- End-to-End Training of Multi-Document Reader and Retriever for Open-Domain Question Answering(neurips, 2021)[[paper]](https://proceedings.neurips.cc/paper_files/paper/2021/file/da3fde159d754a2555eaa198d2d105b2-Paper.pdf)
+- DISTILLING KNOWLEDGE FROM READER TO RETRIEVER FOR QUESTION ANSWERING(Arxiv, 2022)[[paper]](https://arxiv.org/pdf/2012.04584.pdf)
+- Scaling Instruction-Finetuned Language Models(jmlr, 2024)[[paper]](https://www.jmlr.org/papers/volume25/23-0870/23-0870.pdf)
+- RA-DIT: RETRIEVAL-AUGMENTED DUAL INSTRUCTION TUNING(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2310.01352.pdf)
+- SAIL: Search-Augmented Instruction Learning(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2305.15225.pdf)
+- MemPrompt: Memory-assisted Prompt Editing with User Feedback(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2201.06009.pdf)
+- Internet-augmented language models through few-shot prompting for open-domain question answering(Arxiv, 2022)[[paper]](https://arxiv.org/pdf/2203.05115.pdf)
+- GENERALIZATION THROUGH MEMORIZATION:NEAREST NEIGHBOR LANGUAGE MODELS(Arxiv, 2020)[[paper]](https://arxiv.org/pdf/1911.00172.pdf)
+- Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval(mlr, 2022)[[paper]](https://proceedings.mlr.press/v162/alon22a/alon22a.pdf)
+- Efficient Nearest Neighbor Language Models(Arxiv, 2021)[[paper]](https://arxiv.org/pdf/2109.04212.pdf)
+- You can’t pick your neighbors, or can you? When and how to rely on retrieval in the kNN-LM(Arxiv, 2022)[[paper]](https://arxiv.org/pdf/2210.15859.pdf)
+- Training Language Models with Memory Augmentation(Arxiv, 2022)[[paper]](https://arxiv.org/pdf/2205.12674.pdf)
+- IMPROVING NEURAL LANGUAGE MODELS WITH A CONTINUOUS CACHE(Arxiv, 2016)[[paper]](https://arxiv.org/pdf/1612.04426.pdf)
+- Adaptive Semiparametric Language Models(mit, 2021)[[paper]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00371/100688)
+
+### Overall Enhancement
+- REALM: Retrieval-Augmented Language Model Pre-Training(mlr, 2020)[[paper]](http://proceedings.mlr.press/v119/guu20a/guu20a.pdf)
+- Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks(neurips, 2020)[[paper]](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
+- End-to-End Training of Neural Retrievers for Open-Domain Question Answering(Arxiv, 2021)[[paper]](https://arxiv.org/pdf/2101.00408.pdf)
+- Improving the Domain Adaptation of Retrieval Augmented Generation (RAG) Models for Open Domain Question Answering(mit, 2024)[[paper]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00530/114590)
+- End-to-End Training of Multi-Document Reader and Retriever for Open-Domain Question Answering(neurips, 2021)[[paper]](https://proceedings.neurips.cc/paper_files/paper/2021/file/da3fde159d754a2555eaa198d2d105b2-Paper.pdf)
+- Lift Yourself Up: Retrieval-augmented Text Generation with Self-Memory(neurips, 2023)[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/887262aeb3eafb01ef0fd0e3a87a8831-Paper-Conference.pdf)
+- Check Your Facts and Try Again: Improving Large Language Models(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2302.12813.pdf)
+
+## Data Source
+<img src="Data Source.png" width = "800" />
+
+### Structured Data
+- Natural Questions: A Benchmark for Question Answering Research(mit, 2019)[[paper]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00276/43518)
+- HOTPOTQA: A Dataset for Diverse, Explainable Multi-hop Question Answering(Arxiv, 2018)[[paper]](https://arxiv.org/pdf/1809.09600.pdf)
+- Wikidata5M-SI(madata, 2023)[[dataset]](https://madata.bib.uni-mannheim.de/424/)
+- OGB-LSC: WIKIKG90MV2 TECHNICAL REPORT(stanford, 2023)[[paper]](https://ogb.stanford.edu/paper/neurips2022/wikikg90mv2_wikiwiki.pdf)
+- OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs(aclanthology, 2019)[[paper]](https://arxiv.org/pdf/1809.09600.pdf)
+
+### Unstructured Data
+- SQuAD: 100,000+ Questions for Machine Comprehension of Text(Arxiv, 2016)[[paper]](https://arxiv.org/pdf/1606.05250.pdf)
+- FEVER: a large-scale dataset for Fact Extraction and VERification(Arxiv, 2018)[[paper]](https://arxiv.org/pdf/1803.05355.pdf)
+- MULTIMODALQA: COMPLEX QUESTION ANSWERING OVER TEXT, TABLES AND IMAGES(Arxiv, 2021)[[paper]](https://arxiv.org/pdf/2104.06039.pdf)
+- LAION-5B: An open large-scale dataset for training next generation image-text models(neurips, 2021)[[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/a1859debfb3b59d094f3504d5ebb6c25-Paper-Datasets_and_Benchmarks.pdf)
+- AudioCaps: Generating Captions for Audios in The Wild(aclanthology, 2019)[[paper]](https://aclanthology.org/N19-1011.pdf)
+- AUDIO SET: AN ONTOLOGY AND HUMAN-LABELED DATASET FOR AUDIO EVENTS(googleapis, 2022)[[paper]](https://pub-tools-public-publication-data.storage.googleapis.com/pdf/45857.pdf)
+- Clotho: an Audio Captioning Dataset(academia, 2020)[[paper]](https://ieeexplore.ieee.org/abstract/document/9052990)
+- VideoQA: question answering on news video(academia, 2003)[[paper]](https://dl.acm.org/doi/abs/10.1145/957013.957146)
+
+## Applications
+<img src="" width = "800" />
+
+### RALM on NLG
+- Lift Yourself Up: Retrieval-augmented Text Generation with Self-Memory(neurips, 2023)[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/887262aeb3eafb01ef0fd0e3a87a8831-Paper-Conference.pdf)
+- Training Language Models with Memory Augmentation(Arxiv, 2022)[[paper]](https://arxiv.org/pdf/2205.12674.pdf)
+- Retrieval-augmented Generation to Improve Math Question-Answering: Trade-offs Between Groundedness and Human Preference(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2310.03184.pdf)
+- Learning to Filter Context for Retrieval-Augmented Generation(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2311.08377.pdf)
+- RA-DIT: RETRIEVAL-AUGMENTED DUAL INSTRUCTION TUNING(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2310.01352.pdf)
+- REPLUG: Retrieval-Augmented Black-Box Language Models(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2301.12652.pdf)
+- Knowledge Graph-Augmented Language Models for Knowledge-Grounded Dialogue Generation(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2305.18846.pdf)
+
+### RALM on NLU
+- Robust Retrieval Augmented Generation for Zero-shot Slot Filling(Arxiv, 2021)[[paper]](https://arxiv.org/pdf/2108.13934.pdf)
+- MEMORY-DRIVEN TEXT-TO-IMAGE GENERATION(Arxiv, 2022)[[paper]](https://arxiv.org/pdf/2208.07022.pdf)
+- Retrieval-Augmented Diffusion Models(neurips, 2022)[[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/62868cc2fc1eb5cdf321d05b4b88510c-Paper-Conference.pdf)
+- RE-IMAGEN: RETRIEVAL-AUGMENTED TEXT-TO-IMAGE GENERATOR(Arxiv, 2022)[[paper]](https://arxiv.org/pdf/2209.14491.pdf)
+- KNN-Diffusion: Image Generation via Large-Scale Retrieval(Arxiv, 2022)[[paper]](https://arxiv.org/pdf/2204.02849.pdf)
+- Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks(neurips, 2020)[[paper]](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
+-  Atlas: Few-shot Learning with Retrieval Augmented Language Models(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2208.03299.pdf)
+-  Learning to Filter Context for Retrieval-Augmented Generation(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2311.08377.pdf)
+-  Retrieval-Enhanced Generative Model for Large-Scale Knowledge Graph Completion(ACM, 2023)[[paper]](https://dl.acm.org/doi/pdf/10.1145/3539618.3592052)
+-  Active Retrieval Augmented Generation(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2305.06983.pdf)
+-  Learning to retrieve in-context examples for large language models(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2307.07164v2.pdf)
+-  Retrieval-augmented multilingual keyphrase generation with retriever-generator iterative training(Arxiv, 2022)[[paper]](https://arxiv.org/pdf/2205.10471.pdf)
+-  Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2305.15294.pdf)
+
+### RALM on Both NLU and NLG
+- RA-DIT: RETRIEVAL-AUGMENTED DUAL INSTRUCTION TUNING(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2310.01352.pdf)
+- Lift Yourself Up: Retrieval-augmented Text Generation with Self-Memory(neurips, 2023)[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/887262aeb3eafb01ef0fd0e3a87a8831-Paper-Conference.pdf)
+- Learning to retrieve in-context examples for large language models(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2307.07164v2.pdf)
+- Retrieval-augmented multilingual keyphrase generation with retriever-generator iterative training(Arxiv, 2022)[[paper]](https://arxiv.org/pdf/2205.10471.pdf)
+- Augmented Large Language Models with Parametric Knowledge Guiding(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2305.04757.pdf)
+- Think and Retrieval: A Hypothesis Knowledge Graph Enhanced Medical Large Language Models(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2312.15883v1.pdf)
+- Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks(neurips, 2020)[[paper]](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
+- In-Context Retrieval-Augmented Language Models(mit, 2023)[[paper]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00605/118118)
+- Learning to Filter Context for Retrieval-Augmented Generation(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2311.08377.pdf)
+- REPLUG: Retrieval-Augmented Black-Box Language Models(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2301.12652.pdf)
+- Active Retrieval Augmented Generation(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2305.06983.pdf)
+- Rethinking with Retrieval: Faithful Large Language Model Inference(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2301.00303.pdf)
+- DEMONSTRATE–SEARCH–PREDICT:Composing retrieval and language models for knowledge-intensive NLP(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2212.14024.pdf)
+- Retrieval Augmented Code Generation and Summarization(Arxiv, 2021)[[paper]](https://arxiv.org/pdf/2108.11601.pdf)
+- When language model meets private library(Arxiv, 2022)[[paper]](https://arxiv.org/pdf/2210.17236.pdf)
+- RACE: Retrieval-Augmented Commit Message Generation(Arxiv, 2022)[[paper]](https://arxiv.org/pdf/2203.02700.pdf)
+- RETRIEVAL-AUGMENTED GENERATION FOR CODE SUMMARIZATION VIA HYBRID GNN(Arxiv, 2021)[[paper]](https://arxiv.org/pdf/2006.05405.pdf)
+
+## Evaluation
+<img src="evaluation" width = "800" />
+
+- RAGAS: Automated Evaluation of Retrieval Augmented Generation(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2309.15217.pdf)
+- Benchmarking Large Language Models in Retrieval-Augmented Generation(AAAI, 2024)[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29728)
+- CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models(Arxiv, 2024)[[paper]](https://arxiv.org/pdf/2401.17043v2.pdf)
+- ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems(Arxiv, 2024)[[paper]](https://arxiv.org/pdf/2311.09476.pdf)
+- Recall: A benchmark for llms robustness against external counterfactual knowledge(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2311.08147.pdf)
+- Benchmarking Retrieval-Augmented Generation for Medicine(Arxiv, 2024)[[paper]](https://arxiv.org/pdf/2402.13178.pdf)
 
