@@ -152,15 +152,25 @@ We hope this repository can help researchers and practitioners to get a better u
 - RoBERTa: A Robustly Optimized BERT Pretraining Approach(Arxiv, 2019)[[paper]](https://arxiv.org/pdf/1907.11692.pdf)
 - DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter(Arxiv, 2020)[[paper]](https://arxiv.org/pdf/1910.01108.pdf)
 - ConvBERT: Improving BERT with Span-based Dynamic Convolution(neurips, 2020)[[paper]](https://proceedings.neurips.cc/paper_files/paper/2020/file/96da2f590cd7246bbde0051047b0d6f7-Paper.pdf)
+
 ### AutoRegressive Language Model
 - Llama 2: Open Foundation and Fine-Tuned Chat Models(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2307.09288.pdf)
-- 
-
-
-
+- GPT-4 Technical Report(Arxiv, 2024)[[paper]](https://arxiv.org/pdf/2303.08774.pdf)
+- GPT-NeoX-20B: An Open-Source Autoregressive Language Model(Arxiv, 2022)[[paper]](https://arxiv.org/pdf/2204.06745.pdf)
+- OPT: Open Pre-trained Transformer Language Models(Arxiv, 2022)[[paper]](https://arxiv.org/pdf/2205.01068.pdf)
+- LLaMA: Open and Efficient Foundation Language Models(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2302.13971.pdf)
+- Few-shot Learning with Multilingual Generative Language Models(aclanthology, 2022)[[paper]](https://aclanthology.org/2022.emnlp-main.616.pdf)
+- QWEN TECHNICAL REPORT(Arxiv, 2022)[[paper]](https://arxiv.org/pdf/2309.16609.pdf)
+- Language Models are Unsupervised Multitask Learners(amazonaws, 2019)[[paper]](https://insightcivic.s3.us-east-1.amazonaws.com/language-models.pdf)
+- ADAPTIVE INPUT REPRESENTATIONS FOR NEURAL LANGUAGE MODELING(Arxiv, 2019)[[paper]](https://arxiv.org/pdf/1809.10853.pdf)
+- Mistral 7B(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2310.06825.pdf)
+- Language models are few-shot learners(neurips, 2020)[[paper]](https://proceedings.neurips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
+- BLOOM: A 176B-Parameter Open-Access Multilingual Language Model(hal open science, 2023)[[paper]](https://inria.hal.science/hal-03850124/document)
 
 ### Encoder-Decoder Language Model
-
+- Attention Is All You Need(neurips, 2017)[[paper]](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+- Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer(jmlr, 2020)[[paper]](https://www.jmlr.org/papers/volume21/20-074/20-074.pdf)
+- BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension(Arxiv, 2019)[[paper]](https://arxiv.org/pdf/1910.13461.pdf)
 
 
 
