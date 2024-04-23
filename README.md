@@ -143,3 +143,24 @@ We hope this repository can help researchers and practitioners to get a better u
 - Neural Argument Generation Augmented with Externally Retrieved Evidence(Arxiv, 2018)[[paper]](https://arxiv.org/pdf/1805.10254.pdf)
 - Boosting search engines with interactive agents(Arxiv, 2022)[[paper]](https://arxiv.org/pdf/2109.00527.pdf)
 - Off the beaten path: Let’s replace term-based retrieval with k-NN search(Arxiv, 2016)[[paper]](https://arxiv.org/pdf/1610.10001.pdf)
+
+## Language Models
+<img src="LM.png" width = "800" />
+
+### AutoEncoder Language Model
+- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(Arxiv, 2019)[[paper]](https://arxiv.org/pdf/1810.04805.pdf)
+- RoBERTa: A Robustly Optimized BERT Pretraining Approach(Arxiv, 2019)[[paper]](https://arxiv.org/pdf/1907.11692.pdf)
+- DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter(Arxiv, 2020)[[paper]](https://arxiv.org/pdf/1910.01108.pdf)
+- ConvBERT: Improving BERT with Span-based Dynamic Convolution(neurips, 2020)[[paper]](https://proceedings.neurips.cc/paper_files/paper/2020/file/96da2f590cd7246bbde0051047b0d6f7-Paper.pdf)
+### AutoRegressive Language Model
+- Llama 2: Open Foundation and Fine-Tuned Chat Models(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2307.09288.pdf)
+- 
+
+
+
+
+### Encoder-Decoder Language Model
+
+
+
+
