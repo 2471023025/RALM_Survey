@@ -239,7 +239,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - VideoQA: question answering on news video(academia, 2003)[[paper]](https://dl.acm.org/doi/abs/10.1145/957013.957146)
 
 ## Applications
-<img src="" width = "800" />
+<img src="applications.png" width = "800" />
 
 ### RALM on NLG
 - Lift Yourself Up: Retrieval-augmented Text Generation with Self-Memory(neurips, 2023)[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/887262aeb3eafb01ef0fd0e3a87a8831-Paper-Conference.pdf)
