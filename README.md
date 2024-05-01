@@ -1,5 +1,5 @@
 # RALM_Survey
-This is a repository of RALM surveys containing a summary of state-of-the-art RAG and other technologies according to according to our survey paper: [From Intuition to Rationality: A Survey on Retrieval-augmented Language Model in Natural Language Processing]() . In this repository, we will present the most central research approach of our thesis as well as keep up-to-date with work on RALM in the most accessible way possible. For more detailed information, please read our papers. Please cite our papers if you think they can help you with your research!
+This is a repository of RALM surveys containing a summary of state-of-the-art RAG and other technologies according to according to our survey paper: [From Intuition to Rationality: A Survey on Retrieval-augmented Language Model in Natural Language Processing](https://arxiv.org/abs/2404.19543) . In this repository, we will present the most central research approach of our thesis as well as keep up-to-date with work on RALM in the most accessible way possible. For more detailed information, please read our papers. Please cite our papers if you think they can help you with your research!
 ```
 Citation Information:
 
@@ -18,7 +18,7 @@ Citation Information:
 
 ## News
 This project is under development. You can hit the **STAR** and **WATCH** to follow the updates.
-* Our survey：[From Intuition to Rationality: A Survey on Retrieval-augmented Language Model in Natural Language Processing]() on RALM is now public.
+* Our survey：[From Intuition to Rationality: A Survey on Retrieval-augmented Language Model in Natural Language Processing](https://arxiv.org/abs/2404.19543) on RALM is now public.
 
 ## Table of Contents
 - [RALM_Survey](#ralm_survey)
@@ -113,7 +113,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - You can’t pick your neighbors, or can you? When and how to rely on retrieval in the kNN-LM(Arxiv, 2022)[[paper]](https://arxiv.org/pdf/2210.15859.pdf)
 
 ## Retriever
-<img src="fig4" width = "800" />
+<img src="fig4.png" width = "800" />
 
 ### Sparse Retrieval
 - Okapi at TREC-3(google, 1995)[[paper]](https://books.google.com/books?hl=en&lr=&id=j-NeLkWNpMoC&oi=fnd&pg=PA109&dq=Okapi+at+TREC-3&ots=YkB0HpzoLG&sig=I6F49LQ5R5bbnEYNZr-LR1Hs4f0#v=onepage&q=Okapi%20at%20TREC-3&f=false)
