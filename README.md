@@ -7,7 +7,7 @@ This project is under development. You can hit the **STAR** and **WATCH** to fol
 
 Citation Information:
 ```
-@misc{hu2024rag,
+@article{hu2024rag,
       title={RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing}, 
       author={Yucheng Hu and Yuxing Lu},
       year={2024},
