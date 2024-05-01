@@ -3,7 +3,14 @@ This is a repository of RALM surveys containing a summary of state-of-the-art RA
 ```
 Citation Information:
 
-TBA
+@misc{hu2024rag,
+      title={RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing}, 
+      author={Yucheng Hu and Yuxing Lu},
+      year={2024},
+      eprint={2404.19543},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 
 ```
 
