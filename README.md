@@ -48,7 +48,7 @@ Citation Information:
   - [Applications](#applications)
     - [RALM on NLG](#ralm-on-nlg)
     - [RALM on NLU](#ralm-on-nlu)
-    - [{RALM on Both NLU and NLG](#{ralm-on-both-nlu-and-nlu)
+    - [RALM on Both NLU and NLG](#{ralm-on-both-nlu-and-nlu)
   - [Evaluation](#evaluation)
   
 ## Overview
