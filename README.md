@@ -5,9 +5,8 @@ This is a repository of RALM surveys containing a summary of state-of-the-art RA
 This project is under development. You can hit the **STAR** and **WATCH** to follow the updates.
 * Our survey：[RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing](https://arxiv.org/abs/2404.19543) on RALM is now public.
 
-```
 Citation Information:
-
+```
 @misc{hu2024rag,
       title={RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing}, 
       author={Yucheng Hu and Yuxing Lu},
