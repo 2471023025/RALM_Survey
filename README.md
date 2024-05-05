@@ -1,19 +1,17 @@
 # RALM_Survey
-This is a repository of RALM surveys containing a summary of state-of-the-art RAG and other technologies according to according to our survey paper: [RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing](https://arxiv.org/abs/2404.19543) . In this repository, we will present the most central research approach of our thesis as well as keep up-to-date with work on RALM in the most accessible way possible. For more detailed information, please read our papers. Please cite our papers if you think they can help you with your research!
+This is a repository of RALM surveys containing a summary of state-of-the-art RAG and other technologies according to according to our survey paper: [RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing](https://arxiv.org/abs/2404.19543v1) . In this repository, we will present the most central research approach of our thesis as well as keep up-to-date with work on RALM in the most accessible way possible. For more detailed information, please read our papers. Please cite our papers if you think they can help you with your research!
 
 ## News
 This project is under development. You can hit the **STAR** and **WATCH** to follow the updates.
-* Our survey：[RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing](https://arxiv.org/abs/2404.19543) on RALM is now public.
+* Our survey：[RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing](https://arxiv.org/abs/2404.19543v1) on RALM is now public.
 
 Citation Information:
 ```
 @article{hu2024rag,
-      title={RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing}, 
-      author={Yucheng Hu and Yuxing Lu},
-      year={2024},
-      eprint={2404.19543},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+  title={RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing},
+  author={Hu, Yucheng and Lu, Yuxing},
+  journal={arXiv preprint arXiv:2404.19543},
+  year={2024}
 }
 
 ```
