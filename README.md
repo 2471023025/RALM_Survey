@@ -55,7 +55,7 @@ This SURVEY of ours summarizes multiple aspects of RALM, including: definition, 
 
 We hope this repository can help researchers and practitioners to get a better understanding of RALM.
 
-<img src="fig1.png" width = "800" />
+<img src="/fig/fig1.png" width = "800" />
 
 ## Related Surveys
 - Retrieval-Augmented Generation for AI-Generated Content: A Survey(Arxiv, 2024)[[paper]](https://arxiv.org/pdf/2402.19473.pdf)
@@ -65,8 +65,8 @@ We hope this repository can help researchers and practitioners to get a better u
 
 
 ## Defination
-<img src="fig2.png" width = "800" />
-<img src="fig3.png" width = "800" />
+<img src="/fig/fig2.png" width = "800" />
+<img src="/fig/fig3.png" width = "800" />
 
 ### Sequential Single Interaction
 - Corrective Retrieval Augmented Generation(Arxiv, 2024)[[paper]](https://arxiv.org/pdf/2401.15884.pdf)
@@ -111,7 +111,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - You can’t pick your neighbors, or can you? When and how to rely on retrieval in the kNN-LM(Arxiv, 2022)[[paper]](https://arxiv.org/pdf/2210.15859.pdf)
 
 ## Retriever
-<img src="fig4.png" width = "800" />
+<img src="/fig/fig4.png" width = "800" />
 
 ### Sparse Retrieval
 - Okapi at TREC-3(google, 1995)[[paper]](https://books.google.com/books?hl=en&lr=&id=j-NeLkWNpMoC&oi=fnd&pg=PA109&dq=Okapi+at+TREC-3&ots=YkB0HpzoLG&sig=I6F49LQ5R5bbnEYNZr-LR1Hs4f0#v=onepage&q=Okapi%20at%20TREC-3&f=false)
@@ -152,7 +152,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - Off the beaten path: Let’s replace term-based retrieval with k-NN search(Arxiv, 2016)[[paper]](https://arxiv.org/pdf/1610.10001.pdf)
 
 ## Language Models
-<img src="fig5.png" width = "800" />
+<img src="/fig/fig5.png" width = "800" />
 
 ### AutoEncoder Language Model
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(Arxiv, 2019)[[paper]](https://arxiv.org/pdf/1810.04805.pdf)
@@ -180,7 +180,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension(Arxiv, 2019)[[paper]](https://arxiv.org/pdf/1910.13461.pdf)
 
 ## RALM Enhancement
-<img src="fig6.png" width = "800" />
+<img src="/fig/fig6.png" width = "800" />
 
 ### Retriever Enhancement
 - Corrective Retrieval Augmented Generation(Arxiv, 2024)[[paper]](https://arxiv.org/pdf/2401.15884.pdf)
@@ -224,7 +224,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - Check Your Facts and Try Again: Improving Large Language Models(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2302.12813.pdf)
 
 ## Data Source
-<img src="fig7.png" width = "800" />
+<img src="/fig/fig7.png" width = "800" />
 
 ### Structured Data
 - Natural Questions: A Benchmark for Question Answering Research(mit, 2019)[[paper]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00276/43518)
@@ -244,7 +244,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - VideoQA: question answering on news video(academia, 2003)[[paper]](https://dl.acm.org/doi/abs/10.1145/957013.957146)
 
 ## Applications
-<img src="fig8.png" width = "800" />
+<img src="/fig/fig8.png" width = "800" />
 
 ### RALM on NLG
 - Lift Yourself Up: Retrieval-augmented Text Generation with Self-Memory(neurips, 2023)[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/887262aeb3eafb01ef0fd0e3a87a8831-Paper-Conference.pdf)
@@ -290,7 +290,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - RETRIEVAL-AUGMENTED GENERATION FOR CODE SUMMARIZATION VIA HYBRID GNN(Arxiv, 2021)[[paper]](https://arxiv.org/pdf/2006.05405.pdf)
 
 ## Evaluation
-<img src="fig9.png" width = "800" />
+<img src="/fig/fig9.png" width = "800" />
 
 - RAGAS: Automated Evaluation of Retrieval Augmented Generation(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2309.15217.pdf)
 - Benchmarking Large Language Models in Retrieval-Augmented Generation(AAAI, 2024)[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29728)
