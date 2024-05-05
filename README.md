@@ -21,7 +21,7 @@ Citation Information:
   - [Overview](#overview)
   - [Table of Contents](#table-of-contents)
   - [Related Surveys](#related-surveys)
-  - [Defination](#defination)
+  - [Definition](#definition)
     - [Sequential Single Interaction](#sequential-single-interaction)
     - [Sequential Multiple Interactions](#sequential-multiple-interactions)
     - [Parallel Interaction](#parallel-interaction)
@@ -61,7 +61,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - Retrieval-Augmented Generation for Large Language Models: A Survey(Arxiv, 2024)[[paper]](https://arxiv.org/pdf/2312.10997.pdf)
 
 
-## Defination
+## Definition
 <img src="/fig/fig2.png" width = "800" />
 <img src="/fig/fig3.png" width = "800" />
 
