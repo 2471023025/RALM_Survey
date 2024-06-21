@@ -21,7 +21,7 @@ Citation Information:
   - [Overview](#overview)
   - [Table of Contents](#table-of-contents)
   - [Related Surveys](#related-surveys)
-  - [Defination](#defination)
+  - [Definition](#definition)
     - [Sequential Single Interaction](#sequential-single-interaction)
     - [Sequential Multiple Interactions](#sequential-multiple-interactions)
     - [Parallel Interaction](#parallel-interaction)
@@ -61,7 +61,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - Retrieval-Augmented Generation for Large Language Models: A Survey(Arxiv, 2024)[[paper]](https://arxiv.org/pdf/2312.10997.pdf)
 
 
-## Defination
+## Definition
 <img src="/fig/fig2.png" width = "800" />
 <img src="/fig/fig3.png" width = "800" />
 
@@ -101,6 +101,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - Improving Language Models via Plug-and-Play Retrieval Feedback(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2305.14002.pdf)
 - Retrieval Augmentation Reduces Hallucination in Conversation(Arxiv, 2021)[[paper]](https://arxiv.org/pdf/2104.07567.pdf)
 - KAUCUS - Knowledgeable User Simulators for Training Large Language Models [[paper]](https://aclanthology.org/2024.scichat-1.5/)
+- WikiChat: Stopping the Hallucination of Large Language Model Chatbots by Few-Shot Grounding on Wikipedia (Findings of EMNLP 2023) [[paper]](https://arxiv.org/abs/2305.14292) [[code]](https://github.com/stanford-oval/WikiChat) [[demo]](https://wikichat.genie.stanford.edu/)
 
 ### Parallel Interaction
 - GENERALIZATION THROUGH MEMORIZATION:NEAREST NEIGHBOR LANGUAGE MODELS(Arxiv, 2020)[[paper]](https://arxiv.org/pdf/1911.00172.pdf)
