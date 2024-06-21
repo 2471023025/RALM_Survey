@@ -100,6 +100,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - DEMONSTRATE–SEARCH–PREDICT:Composing retrieval and language models for knowledge-intensive NLP(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2212.14024.pdf)
 - Improving Language Models via Plug-and-Play Retrieval Feedback(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2305.14002.pdf)
 - Retrieval Augmentation Reduces Hallucination in Conversation(Arxiv, 2021)[[paper]](https://arxiv.org/pdf/2104.07567.pdf)
+- KAUCUS - Knowledgeable User Simulators for Training Large Language Models [[paper]](https://aclanthology.org/2024.scichat-1.5/)
 - WikiChat: Stopping the Hallucination of Large Language Model Chatbots by Few-Shot Grounding on Wikipedia (Findings of EMNLP 2023) [[paper]](https://arxiv.org/abs/2305.14292) [[code]](https://github.com/stanford-oval/WikiChat) [[demo]](https://wikichat.genie.stanford.edu/)
 
 ### Parallel Interaction
