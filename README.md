@@ -135,6 +135,7 @@ We hope this repository can help researchers and practitioners to get a better u
 - RE-IMAGEN: RETRIEVAL-AUGMENTED TEXT-TO-IMAGE GENERATOR(Arxiv, 2022)[[paper]](https://arxiv.org/pdf/2209.14491.pdf)
 - MEMORY-DRIVEN TEXT-TO-IMAGE GENERATION(Arxiv, 2022)[[paper]](https://arxiv.org/pdf/2208.07022.pdf)
 - Retrieval-Augmented Diffusion Models(neurips, 2022)[[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/62868cc2fc1eb5cdf321d05b4b88510c-Paper-Conference.pdf)
+- ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance(EMNLP 2025 Oral)[[paper]](https://aclanthology.org/2025.emnlp-main.963/)
 
 ### Internet Retrieval
 - Active Retrieval Augmented Generation(Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2305.06983.pdf)
@@ -212,6 +213,8 @@ We hope this repository can help researchers and practitioners to get a better u
 - Training Language Models with Memory Augmentation(Arxiv, 2022)[[paper]](https://arxiv.org/pdf/2205.12674.pdf)
 - IMPROVING NEURAL LANGUAGE MODELS WITH A CONTINUOUS CACHE(Arxiv, 2016)[[paper]](https://arxiv.org/pdf/1612.04426.pdf)
 - Adaptive Semiparametric Language Models(mit, 2021)[[paper]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00371/100688)
+- ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation(NeurIPS, 2025)[[paper]](https://arxiv.org/abs/2502.15543)
+- SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation(Arxiv, 2026)[[paper]](https://arxiv.org/abs/2606.27786)
 
 ### Overall Enhancement
 - REALM: Retrieval-Augmented Language Model Pre-Training(mlr, 2020)[[paper]](http://proceedings.mlr.press/v119/guu20a/guu20a.pdf)
